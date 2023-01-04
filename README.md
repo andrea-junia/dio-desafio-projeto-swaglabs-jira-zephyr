@@ -18,3 +18,10 @@ Modulo Fundamentos de Qualidade de Software.
 
 Para o desafio de projeto foi trabalhado a rotina do QA a partir da loja virtual fictícia SwagLabs Shopping (https://www.saucedemo.com/). 
 
+###
+
+Tecnologias
+
+Jira
+Zephyr Scale
+Mind Manages 22
